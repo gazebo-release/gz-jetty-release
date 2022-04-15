@@ -4,7 +4,7 @@ Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
 Build-Depends: debhelper (>= 11),
-               libignition-cmake2-dev (>= 2.8.0),
+               libignition-cmake3-dev,
                libignition-common5-dev,
                libignition-fuel-tools8-dev,
                libignition-gazebo7-dev,
@@ -17,7 +17,7 @@ Build-Depends: debhelper (>= 11),
                libignition-plugin2-dev,
                libignition-rendering7-dev,
                libignition-sensors7-dev,
-               libignition-tools-dev (>= 1.3.0),
+               libignition-tools2-dev,
                libignition-transport12-dev,
                libignition-utils2-cli-dev,
                libignition-utils2-dev,
@@ -29,7 +29,7 @@ Homepage: http://ignitionrobotics.org/
 Package: ignition-garden
 Architecture: any
 Section: libdevel
-Depends: libignition-cmake2-dev (>= 2.7.0),
+Depends: libignition-cmake3-dev,
          libignition-common5-dev,
          libignition-fuel-tools8-dev,
          libignition-gazebo7-dev,
@@ -42,7 +42,7 @@ Depends: libignition-cmake2-dev (>= 2.7.0),
          libignition-plugin2-dev,
          libignition-rendering7-dev,
          libignition-sensors7-dev,
-         libignition-tools-dev (>= 1.1.0),
+         libignition-tools2-dev,
          libignition-transport12-dev,
          libignition-utils2-cli-dev,
          libignition-utils2-dev,
