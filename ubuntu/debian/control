@@ -47,6 +47,8 @@ Depends: libignition-cmake3-dev,
          libignition-utils2-cli-dev,
          libignition-utils2-dev,
          libsdformat13-dev,
+         python3-ignition-math7,
+         python3-ignition-gazebo7,
          ${misc:Depends}
 Multi-Arch: foreign
 Description: Collection of ignition robotics packages - Garden
