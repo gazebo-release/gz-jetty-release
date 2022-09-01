@@ -1,5 +1,11 @@
-gz-garden (1.0.0-1~focal) focal; urgency=medium
+gz-garden (1.0.0~pre1-1~focal) focal; urgency=medium
 
-  * gz-garden 1.0.0-1 release
+  * gz-garden 1.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 01 Sep 2022 14:52:47 -0700
+
+gz-garden (0.999.999-1~focal) focal; urgency=medium
+
+  * gz-garden 0.999.999-1 release
 
  -- Louise Poubel <louise@openrobotics.org>  Fri, 01 Oct 2021 15:10:49 -0700
