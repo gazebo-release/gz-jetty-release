@@ -1,3 +1,9 @@
+gz-garden (1.0.0~pre1-2~focal) focal; urgency=medium
+
+  * gz-garden 1.0.0~pre1-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 07 Sep 2022 17:46:57 +0200
+
 gz-garden (1.0.0~pre1-1~focal) focal; urgency=medium
 
   * gz-garden 1.0.0~pre1-1 release
