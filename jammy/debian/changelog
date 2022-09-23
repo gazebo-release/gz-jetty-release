@@ -1,3 +1,9 @@
+gz-garden (1.0.0~pre1-3~jammy~jammy) jammy; urgency=medium
+
+  * gz-garden 1.0.0~pre1-3~jammy release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 23 Sep 2022 17:34:03 +0200
+
 gz-garden (1.0.0~pre1-2~jammy) jammy; urgency=medium
 
   * gz-garden 1.0.0~pre1-2 release
