@@ -1,4 +1,4 @@
-Source: gz-garden
+Source: gz-harmonic
 Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -22,11 +22,11 @@ Build-Depends: debhelper (>= 11),
                libgz-utils2-cli-dev,
                libgz-utils2-dev,
                libsdformat13-dev
-Vcs-Browser: https://github.com/gazebo-release/gz-garden-release
-Vcs-Git: https://github.com/gazebo-release/gz-garden-release
+Vcs-Browser: https://github.com/gazebo-release/gz-harmonic-release
+Vcs-Git: https://github.com/gazebo-release/gz-harmonic-release
 Homepage: http://gazebosim.org/
 
-Package: gz-garden
+Package: gz-harmonic
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake3-dev,
