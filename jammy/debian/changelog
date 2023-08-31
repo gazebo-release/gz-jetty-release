@@ -1,6 +1,6 @@
-gz-harmonic (1.0.0~pre-1~jammy) jammy; urgency=medium
+gz-harmonic (1.0.0~pre1-1~jammy) jammy; urgency=medium
 
-  * gz-harmonic 1.0.0~pre-1 release
+  * gz-harmonic 1.0.0~pre1-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 31 Aug 2023 16:28:20 +0200
 
