@@ -50,7 +50,10 @@ Depends: libgz-cmake3-dev,
          gz-sim8-cli,
          gz-transport13-cli,
          python3-gz-math7,
+         python3-gz-msgs10,
          python3-gz-sim8,
+         python3-gz-transport13,
+         python3-sdformat14,
          ${misc:Depends}
 Multi-Arch: foreign
 Description: Collection of Gazebo packages - Harmonic
