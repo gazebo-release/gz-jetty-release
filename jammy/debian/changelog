@@ -1,3 +1,9 @@
+gz-harmonic (1.0.0-1~jammy) jammy; urgency=medium
+
+  * gz-harmonic 1.0.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 02 Oct 2023 10:05:41 -0500
+
 gz-harmonic (1.0.0~pre2-1~jammy) jammy; urgency=medium
 
   * gz-harmonic 1.0.0~pre2-1 release
