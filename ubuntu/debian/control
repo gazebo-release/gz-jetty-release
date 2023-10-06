@@ -1,4 +1,4 @@
-Source: gz-harmonic
+Source: gz-ionic
 Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -21,11 +21,11 @@ Build-Depends: debhelper (>= 13),
                libgz-utils2-cli-dev,
                libgz-utils2-dev,
                libsdformat14-dev
-Vcs-Browser: https://github.com/gazebo-release/gz-harmonic-release
-Vcs-Git: https://github.com/gazebo-release/gz-harmonic-release
+Vcs-Browser: https://github.com/gazebo-release/gz-ionic-release
+Vcs-Git: https://github.com/gazebo-release/gz-ionic-release
 Homepage: http://gazebosim.org/
 
-Package: gz-harmonic
+Package: gz-ionic
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake3-dev,
@@ -56,6 +56,6 @@ Depends: libgz-cmake3-dev,
          python3-sdformat14,
          ${misc:Depends}
 Multi-Arch: foreign
-Description: Collection of Gazebo packages - Harmonic
+Description: Collection of Gazebo packages - Ionic
   This is a metapackage used for triggering the whole collection of Gazebo
-  packages corresponding to the Harmonic collection
+  packages corresponding to the Ionic collection

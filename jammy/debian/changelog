@@ -1,24 +1,6 @@
-gz-harmonic (1.0.0-1~jammy) jammy; urgency=medium
+gz-ionic (0.0.0-1~jammy) jammy; urgency=medium
 
-  * gz-harmonic 1.0.0-1 release
+  * gz-ionic 0.0.0-1 release
 
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 02 Oct 2023 10:05:41 -0500
-
-gz-harmonic (1.0.0~pre2-1~jammy) jammy; urgency=medium
-
-  * gz-harmonic 1.0.0~pre2-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 31 Aug 2023 20:39:47 +0200
-
-gz-harmonic (1.0.0~pre1-1~jammy) jammy; urgency=medium
-
-  * gz-harmonic 1.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 31 Aug 2023 16:28:20 +0200
-
-gz-harmonic (0.0.0-1~jammy) jammy; urgency=medium
-
-  * gz-harmonic 0.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 31 May 2023 15:55:26 +0200
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 06 Oct 2023 16:15:43 -0500
 
