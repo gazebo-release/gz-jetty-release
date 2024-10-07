@@ -1,4 +1,4 @@
-Source: gz-ionic
+Source: gz-jetty
 Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -21,11 +21,11 @@ Build-Depends: debhelper (>= 13),
                libgz-utils3-cli-dev,
                libgz-utils3-dev,
                libsdformat15-dev
-Vcs-Browser: https://github.com/gazebo-release/gz-ionic-release
-Vcs-Git: https://github.com/gazebo-release/gz-ionic-release
+Vcs-Browser: https://github.com/gazebo-release/gz-jetty-release
+Vcs-Git: https://github.com/gazebo-release/gz-jetty-release
 Homepage: http://gazebosim.org/
 
-Package: gz-ionic
+Package: gz-jetty
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake4-dev,
@@ -56,6 +56,6 @@ Depends: libgz-cmake4-dev,
          python3-sdformat15,
          ${misc:Depends}
 Multi-Arch: foreign
-Description: Collection of Gazebo packages - Ionic
+Description: Collection of Gazebo packages - Jetty
   This is a metapackage used for triggering the whole collection of Gazebo
-  packages corresponding to the Ionic collection
+  packages corresponding to the Jetty collection

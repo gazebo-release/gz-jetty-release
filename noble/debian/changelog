@@ -1,17 +1,5 @@
-gz-ionic (1.0.0-1~noble) noble; urgency=medium
+gz-jetty (0.999.999-1~noble) noble; urgency=medium
 
-  * gz-ionic 1.0.0-1 release
+  * gz-jetty 0.999.999-1 release for noble
 
- -- Ian Chen <ichen@openrobotics.org>  Fri, 27 Sep 2024 05:30:59 +0000
-
-gz-ionic (1.0.0~pre1-1~noble) noble; urgency=medium
-
-  * gz-ionic 1.0.0~pre1-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Thu, 29 Aug 2024 07:21:54 +0000
-
-gz-ionic (0.0.0-1~noble) noble; urgency=medium
-
-  * First release for noble
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 18 Jun 2024 16:40:16 +0200
+ -- Ian Chen <ichen@openrobotics.org>  Mon, 07 Oct 2024 16:40:16 +0200
