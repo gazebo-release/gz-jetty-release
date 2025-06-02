@@ -25,10 +25,18 @@ Vcs-Browser: https://github.com/gazebo-release/gz-jetty-release
 Vcs-Git: https://github.com/gazebo-release/gz-jetty-release
 Homepage: http://gazebosim.org/
 
+Package: gz-jetty-cmake
+Depends: libgz-cmake5-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
+
 Package: gz-jetty
 Architecture: any
 Section: libdevel
-Depends: libgz-cmake5-dev,
+Depends: gz-jetty-cmake,
          libgz-common7-dev,
          libgz-fuel-tools11-dev,
          libgz-sim10-dev,
