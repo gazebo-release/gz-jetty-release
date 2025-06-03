@@ -33,6 +33,31 @@ Section: metapackages
 Description: alias package
  Provides a package for Jetty without exposing the version number.
 
+Package: gz-jetty-utils-cli
+Depends: libgz-utils4-cli-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
+
+Package: gz-jetty-utils-log
+Depends: libgz-utils4-log-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
+
+Package: gz-jetty-utils
+Depends: libgz-utils4-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
+
+
 Package: gz-jetty
 Architecture: any
 Section: libdevel
@@ -51,7 +76,9 @@ Depends: gz-jetty-cmake,
          libgz-tools2-dev,
          libgz-transport15-dev,
          libgz-utils4-cli-dev,
-         libgz-utils4-dev,
+         gz-jetty-utils-cli,
+         gz-jetty-utils-log,
+         gz-jetty-utils,
          libsdformat16-dev,
          gz-launch9-cli,
          gz-plugin4-cli,
