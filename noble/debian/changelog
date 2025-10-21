@@ -1,3 +1,9 @@
+gz-jetty (1.0.0-2~noble) noble; urgency=medium
+
+  * gz-jetty 1.0.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 21 Oct 2025 15:50:55 +0200
+
 gz-jetty (1.0.0-1~noble) noble; urgency=medium
 
   * gz-jetty 1.0.0-1 release
